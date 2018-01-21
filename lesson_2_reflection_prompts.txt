@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it? 
+	a git file is created in that directory. 
+	Because you can use specific git commands such as commit, check out, on that directory. 
+
