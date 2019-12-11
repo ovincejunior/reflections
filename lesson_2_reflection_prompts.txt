@@ -1,4 +1,25 @@
 What happens when you initialize a repository? Why do you need to do it? 
 	a git file is created in that directory. 
+	It is necessary in order to let git keep track of the changes.
 	Because you can use specific git commands such as commit, check out, on that directory. 
+	Can check your changes later on.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers? 
+	The staging area is in between the repository annd the working directory.
+	Staging area serves as pre-step before commit the changes.
+	It lets one chooses the files that needs to be committed.
+	It helps to manage how you gonna track your changes. 
+	One can decide better if he wants to track changes on a file based on the work done. 
+
+How can you use the staging area to make sure you have one commit per logical change? 
+	Always compare the WD, staging area, and the directory to be sure about the changes to commit. add file in the satging area when there is logical change.  
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	when we don't want to change a version of work complete but want to experience other ideas using the base of this work. When trying to translate the work. 
+
+How do the diagrams help you visualize the branch structure?
+    the diagram helps locate where we operate and commit changes. it helps retrace all the changes made. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
