@@ -12,10 +12,13 @@ How is the staging area different from the working directory and the repository?
 	One can decide better if he wants to track changes on a file based on the work done. 
 
 How can you use the staging area to make sure you have one commit per logical change? 
-	Always compare the WD, staging area, and the directory to be sure about the changes to commit. add file in the satging area when there is logical change.  
+	Always compare the repository, staging area, and the directory to be sure about the changes to commit. 
+	Only the files with the logical change will be in the staging area. 
+	Commit them when completing all the logical changes.  
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
-	when we don't want to change a version of work complete but want to experience other ideas using the base of this work. When trying to translate the work. 
+	when we don't want to change a version of work complete but want to experience other ideas using the base of this work. When trying to translate the work.
+	When having a working code but want to test more efficient way to have the codes. 
 
 How do the diagrams help you visualize the branch structure?
     the diagram helps locate where we operate and commit changes. it helps retrace all the changes made. 
